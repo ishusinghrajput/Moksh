@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+padding: 0;
+font-family: 'Shippori Antique B1', sans-serif;
+background-image: url(trophy.webp);
+background-size: cover;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+.s24{
+    padding: 10px;
+}
+
+.li{
+    width: fit-content;
+    border-radius: 4px;
+    background-color: aliceblue;
+    padding: 5px;
+    font-size: 12px;
+    margin: 7px;
+    justify-content: center;
+    text-align: center;
+}
+
+.s24txt{
+    font-size: 30px;
+    font-family: Impact;
+    color: aliceblue;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
